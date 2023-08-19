@@ -205,7 +205,7 @@
   "servers": [
     {
       "description": "Local development",
-      "url": "http://localhost:3000"
+      "url": "https://chatgpt-plugin-1.joshvaarkman.repl.co/"
     }
   ]
 }
